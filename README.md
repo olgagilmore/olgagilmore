@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Throughout my career I have acquired a very diversified skill set and worked with many tools and technologies. I’m an eager learner and fearless adopter of new ideas. As an engineer, I love to use them to solve problems at hand. Recently I implemented a java-based testing framework for our MRY product with an innovative deployment and reporting solution. I also took an initiative to create several Python and Linux scripts to automate critical tests, and then developed a Spring Boot web application for uploading locomotive messages directly to our IBM MQ queues and micro-service based apps.
+Throughout my career I have acquired a very diversified skill set and worked with many tools and technologies. I’m an eager learner and fearless adopter of new ideas. As an engineer, I love to use them to solve problems at hand. Recently I implemented a java-based testing framework, took an initiative to create several Python and Linux scripts to automate critical tests, and developed a Spring Boot web application for uploading locomotive messages directly to our IBM MQ queues and micro-service based apps.
 
 This year I dove even deeper into expanding my technical skills and earned three Nano-degree programs from Udacity: 
  - ✏ full-stack web-developer, 
@@ -22,3 +22,6 @@ This year I dove even deeper into expanding my technical skills and earned three
  - ✏ and Java web developer Nano-degree. 
 
 This project-based learning allowed me to practice hands on the innumerable new technologies including Docker, Kubernetes, deployment to AWS, data persistence, Hibernate, Graph QL, security and devOps, and more.
+
+## Contact
+Reach me on [LinkedIn](https://www.linkedin.com/in/olgagilmore/) or gilmoreolga@gmail.com
