@@ -13,15 +13,32 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Profile Views](https://komarev.com/ghpvc/?username=OlgaGilmore&style=flat-square)  
 -->
-Throughout my career I have acquired a very diversified skill set and worked with many tools and technologies. I’m an eager learner and fearless adopter of new ideas. As an engineer, I love to use them to solve problems at hand. Recently I implemented a java-based testing framework, took an initiative to create several Python and Linux scripts to automate critical tests, and developed a Spring Boot web application for uploading locomotive messages directly to our IBM MQ queues and micro-service based apps.
 
-This year I dove even deeper into expanding my technical skills and earned three Nano-degree programs from Udacity: 
- - ✏ full-stack web-developer, 
- - ✏ algorithms and data structures, 
- - ✏ and Java web developer Nano-degree. 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Active-green)  
+![Finance](https://img.shields.io/badge/Finance-Quant%20Analysis-yellow)  
 
-This project-based learning allowed me to practice hands on the innumerable new technologies including Docker, Kubernetes, deployment to AWS, data persistence, Hibernate, Graph QL, security and devOps, and more.
+I’m a Senior SDET pivoting into **quantitative finance** and AI-driven market strategies. My current portfolio showcases projects from the Udacity AI for Trading Nanodegree, including:
+
+Financial data preprocessing & feature engineering
+
+Predictive models for stock price movement
+
+Portfolio optimization with risk management techniques
+
+Backtesting strategies using Python
+
+💡 I’m exploring how machine learning and algorithmic trading can unlock smarter investment decisions.
+📂 See my projects → [https://github.com/olgagilmore/trading-models]
+
+---
+
+## 📈 Why Quant?  
+I’m fascinated by **data-driven decision-making** in finance and how **AI can enhance strategy design and execution**. 
+
+---
 
 ## Contact
 Reach me on [LinkedIn](https://www.linkedin.com/in/olgagilmore/) or gilmoreolga@gmail.com
