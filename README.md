@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 I’m a Senior SDET pivoting into **quantitative finance** and AI-driven market strategies. My current portfolio showcases projects from the Udacity AI for Trading Nanodegree, including:
 
-Financial data preprocessing & feature engineering
+- Financial data preprocessing & feature engineering
 
-Predictive models for stock price movement
+- Predictive models for stock price movement
 
-Portfolio optimization with risk management techniques
+- Portfolio optimization with risk management techniques
 
-Backtesting strategies using Python
+- Backtesting strategies using Python
 
 💡 I’m exploring how machine learning and algorithmic trading can unlock smarter investment decisions.
 📂 See my projects → [https://github.com/olgagilmore/trading-models]
